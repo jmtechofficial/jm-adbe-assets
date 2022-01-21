@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Rename</title>
+    <defs>
+        <linearGradient x1="100%" y1="1.11022302e-14%" x2="3.74939946e-31%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7764F9" offset="0%"></stop>
+            <stop stop-color="#769FFC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B3_FIDO_Rename_01" transform="translate(-829.000000, -329.000000)">
+            <g id="Rename" transform="translate(829.000000, 329.000000)">
+                <circle id="Oval" fill="#F1F1F5" cx="11" cy="11" r="11"></circle>
+                <g transform="translate(5.000000, 5.000000)" fill="url(#linearGradient-1)" id="Icon-/-compose-fill">
+                    <g>
+                        <path d="M4.7904447,11.8330316 C4.70098524,11.9224795 4.58206963,11.9693851 4.45769917,11.9841112 C4.40260523,11.9993828 0.530756399,11.9999283 0.530756399,11.9999283 C0.231285419,12.004837 -0.00218193792,11.7572191 0.0027274224,11.4583322 L0,7.60334672 C0,7.45499414 0.0589123238,7.3120957 0.163645344,7.20683081 L4.33769258,3.0382323 L8.96231,7.66170601 L4.7904447,11.8330316 Z M9.75108056,6.87412833 L5.12646314,2.2501092 L7.20421352,0.174809271 C7.41913441,-0.0400838096 7.78024513,-0.0640820217 7.98752923,0.143175264 L11.8517413,4.02379523 C12.0257508,4.19778227 12.0797538,4.547938 11.8299219,4.79719216 L9.75108056,6.87412833 Z" id="Mask"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

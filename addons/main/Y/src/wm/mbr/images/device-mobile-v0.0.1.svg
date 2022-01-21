@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="56px" viewBox="0 0 100 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>mobile-frame</title>
+    <desc>Created with Sketch.</desc>
+    <g id="mobile-frame" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle-Copy-4" fill="#C7CDD2" x="45" y="44" width="10" height="4" rx="2"></rect>
+            <path d="M64,0 L36,0 C33.790861,0 32,1.790861 32,4 L32,52 C32,54.209139 33.790861,56 36,56 L64,56 C66.209139,56 68,54.209139 68,52 L68,4 C68,1.790861 66.209139,0 64,0 Z M64,3 C64.5522847,3 65,3.44771525 65,4 L65,52 C65,52.5522847 64.5522847,53 64,53 L36,53 C35.4477153,53 35,52.5522847 35,52 L35,4 C35,3.44771525 35.4477153,3 36,3 L64,3 Z" id="Rectangle" fill="#C7CDD2" fill-rule="nonzero"></path>
+            <rect id="Rectangle" x="0" y="0" width="100" height="56"></rect>
+        </g>
+    </g>
+</svg>

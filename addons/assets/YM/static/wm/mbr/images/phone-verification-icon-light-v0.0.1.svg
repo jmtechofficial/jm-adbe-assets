@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>PhoneNo_01</title>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Phone-No_MouseOut" transform="translate(-10.000000, -10.000000)" fill-rule="nonzero">
+            <g id="PhoneNo_01" transform="translate(10.000000, 10.000000)">
+                <rect id="Rectangle" fill="#F1F1F5" x="0" y="0" width="60" height="60" rx="4"></rect>
+                <rect id="Rectangle" fill="#7A7CD0" x="15" y="6" width="30" height="48" rx="3"></rect>
+                <rect id="Rectangle" fill="#F1F1F5" x="18" y="9" width="24" height="42" rx="1"></rect>
+                <rect id="Rectangle" fill="#7A7CD0" x="10" y="17" width="39" height="19" rx="2"></rect>
+                <rect id="Rectangle" fill="#F1F1F5" x="13" y="20" width="33" height="13" rx="1"></rect>
+                <rect id="L1" fill="#7A7CD0" transform="translate(19.508961, 26.419355) rotate(-360.000000) translate(-19.508961, -26.419355) " x="18.9444444" y="24" width="1.12903226" height="4.83870968"></rect>
+                <polygon id="L2" fill="#7A7CD0" transform="translate(19.508961, 26.500000) rotate(-60.000000) translate(-19.508961, -26.500000) " points="18.9444444 24 20.0407061 24.0141234 20.0734767 29 18.977215 28.9858766"></polygon>
+                <polygon id="L3" fill="#7A7CD0" transform="translate(19.508961, 26.500000) rotate(-120.000000) translate(-19.508961, -26.500000) " points="18.977215 24.0141234 20.0734767 24 20.0407061 28.9858766 18.9444444 29"></polygon>
+                <rect id="L12" fill="#7A7CD0" transform="translate(26.508961, 26.419355) rotate(-360.000000) translate(-26.508961, -26.419355) " x="25.9444444" y="24" width="1.12903226" height="4.83870968"></rect>
+                <polygon id="L22" fill="#7A7CD0" transform="translate(26.508961, 26.500000) rotate(-60.000000) translate(-26.508961, -26.500000) " points="25.9444444 24 27.0407061 24.0141234 27.0734767 29 25.977215 28.9858766"></polygon>
+                <polygon id="L32" fill="#7A7CD0" transform="translate(26.508961, 26.500000) rotate(-120.000000) translate(-26.508961, -26.500000) " points="25.977215 24.0141234 27.0734767 24 27.0407061 28.9858766 25.9444444 29"></polygon>
+                <rect id="L13" fill="#7A7CD0" transform="translate(33.508961, 26.419355) rotate(-360.000000) translate(-33.508961, -26.419355) " x="32.9444444" y="24" width="1.12903226" height="4.83870968"></rect>
+                <polygon id="L23" fill="#7A7CD0" transform="translate(33.508961, 26.500000) rotate(-60.000000) translate(-33.508961, -26.500000) " points="32.9444444 24 34.0407061 24.0141234 34.0734767 29 32.977215 28.9858766"></polygon>
+                <polygon id="L33" fill="#7A7CD0" transform="translate(33.508961, 26.500000) rotate(-120.000000) translate(-33.508961, -26.500000) " points="32.977215 24.0141234 34.0734767 24 34.0407061 28.9858766 32.9444444 29"></polygon>
+                <rect id="L14" fill="#7A7CD0" transform="translate(40.508961, 26.419355) rotate(-360.000000) translate(-40.508961, -26.419355) " x="39.9444444" y="24" width="1.12903226" height="4.83870968"></rect>
+                <polygon id="L24" fill="#7A7CD0" transform="translate(40.508961, 26.500000) rotate(-60.000000) translate(-40.508961, -26.500000) " points="39.9444444 24 41.0407061 24.0141234 41.0734767 29 39.977215 28.9858766"></polygon>
+                <polygon id="L34" fill="#7A7CD0" transform="translate(40.508961, 26.500000) rotate(-120.000000) translate(-40.508961, -26.500000) " points="39.977215 24.0141234 41.0734767 24 41.0407061 28.9858766 39.9444444 29"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

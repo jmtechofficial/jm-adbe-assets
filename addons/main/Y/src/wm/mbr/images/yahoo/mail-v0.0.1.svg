@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="100%" y1="21.875%" x2="3.74939946e-31%" y2="78.125%" id="linearGradient-1">
+            <stop stop-color="#7764F9" offset="0%"></stop>
+            <stop stop-color="#769FFC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Account-Access" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="User-Name-Copy-9" transform="translate(-184.000000, -112.000000)" fill="url(#linearGradient-1)">
+            <path d="M184.727273,124 C184.325818,124 184,123.66475 184,123.25 L184,112.75 C184,112.33525 184.325818,112 184.727273,112 L199.272727,112 C199.674182,112 200,112.33525 200,112.75 L200,123.25 C200,123.66475 199.674182,124 199.272727,124 L184.727273,124 Z M198.545455,122.5 L198.545455,116.7385 L192,119.50825 L185.454545,116.7385 L185.454545,122.5 L198.545455,122.5 Z M185.454545,113.5 L185.454545,115.08625 L192,117.85675 L198.545455,115.08625 L198.545455,113.5 L185.454545,113.5 Z" id="Mail_Yahoo"></path>
+        </g>
+    </g>
+</svg>

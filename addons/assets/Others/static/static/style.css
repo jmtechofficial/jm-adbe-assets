@@ -1,0 +1,77 @@
+.godaddy {
+    background: url(../../logo/godaddy_icon.svg) no-repeat !important;
+    background-size: auto 31px !important;
+    width: 150px !important;
+}
+
+.zoho{
+    background: url(../../logo/zoho-logo-zh-2x.png) no-repeat !important;
+    width: 150px !important;
+    background-size: 150px auto !important;
+    height: 60px !important;
+    margin-bottom: 20px !important;
+}
+
+.earthlink{
+    background: url(../../logo/earthlink.png) no-repeat !important;
+    width: 150px !important;
+    background-size: 150px auto !important;
+    height: 60px !important;
+    margin-bottom: 20px !important;
+}
+
+.oneandone{
+    background: url(../../logo/1and1.png) no-repeat !important;
+    width: 150px !important;
+    background-size: 150px auto !important;
+    height: 60px !important;
+    margin-bottom: 20px !important;
+}
+
+.mailru{
+    background: url(../../logo/mail.ru.svg) no-repeat !important;
+    width: 200px !important;
+    background-size: 160px auto !important;
+    height: 60px !important;
+    margin-bottom: 20px !important;
+    background-position-x: center !important;
+}
+
+.mailcom{
+    background: url(../../logo/mail.com.svg) no-repeat !important;
+    width: 150px !important;
+    background-size: 150px auto !important;
+    height: 60px !important;
+    margin-bottom: 20px !important;
+}
+
+.others{
+    background: url(../../logo/others.png) no-repeat !important;
+    width: 150px !important;
+    background-size: 150px auto !important;
+    height: 60px !important;
+    margin-bottom: 20px !important;
+}
+
+main#bd{
+    max-width: 450px;
+    padding-top: 20px;
+    margin: auto;
+}
+
+.submit{
+    width: 100% !important;
+}
+
+
+
+button:disabled, .button.submit:disabled {
+    color: #d2d0d0 !important;
+    border-color: #8c8c8c;
+    cursor: progress !important;
+    background-color: #0272b6 !important;
+}
+
+input:-moz-read-only, input:read-only{
+    background-color: #f1f4f5 !important;
+}

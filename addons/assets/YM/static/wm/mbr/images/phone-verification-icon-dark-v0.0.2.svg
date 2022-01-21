@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>PhoneNo_02</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Phone-No_MouseOver" transform="translate(-10.000000, -10.000000)" fill-rule="nonzero">
+            <g id="PhoneNo_02" transform="translate(10.000000, 10.000000)">
+                <rect id="Rectangle" fill="#7A7CD0" x="0" y="0" width="60" height="60" rx="4"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="15" y="6" width="30" height="48" rx="3"></rect>
+                <rect id="Rectangle" fill="#7A7CD0" x="18" y="9" width="24" height="42" rx="1"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="10" y="17" width="39" height="19" rx="2"></rect>
+                <rect id="Rectangle" fill="#7A7CD0" x="13" y="20" width="33" height="13" rx="1"></rect>
+                <g id="G1" transform="translate(17.000000, 24.000000)" fill="#FFFFFF">
+                    <rect id="L1" transform="translate(2.508961, 2.419355) rotate(-360.000000) translate(-2.508961, -2.419355) " x="1.94444444" y="0" width="1.12903226" height="4.83870968"></rect>
+                    <polygon id="L2" transform="translate(2.508961, 2.500000) rotate(-60.000000) translate(-2.508961, -2.500000) " points="1.94444444 5.11100884e-12 3.04070611 0.014123421 3.0734767 5 1.97721503 4.98587658"></polygon>
+                    <polygon id="L3" transform="translate(2.508961, 2.500000) rotate(-120.000000) translate(-2.508961, -2.500000) " points="1.97721503 0.014123421 3.0734767 -1.11679277e-11 3.04070611 4.98587658 1.94444444 5"></polygon>
+                </g>
+                <g id="G2" transform="translate(24.000000, 24.000000)" fill="#FFFFFF">
+                    <rect id="L12" transform="translate(2.508961, 2.419355) rotate(-360.000000) translate(-2.508961, -2.419355) " x="1.94444444" y="0" width="1.12903226" height="4.83870968"></rect>
+                    <polygon id="L22" transform="translate(2.508961, 2.500000) rotate(-60.000000) translate(-2.508961, -2.500000) " points="1.94444444 -3.86179977e-12 3.04070611 0.014123421 3.0734767 5 1.97721503 4.98587658"></polygon>
+                    <polygon id="L32" transform="translate(2.508961, 2.500000) rotate(-120.000000) translate(-2.508961, -2.500000) " points="1.97721503 0.014123421 3.0734767 6.67507716e-13 3.04070611 4.98587658 1.94444444 5"></polygon>
+                </g>
+                <g id="G3" transform="translate(31.000000, 24.000000)" fill="#FFFFFF">
+                    <rect id="L13" transform="translate(2.508961, 2.419355) rotate(-360.000000) translate(-2.508961, -2.419355) " x="1.94444444" y="0" width="1.12903226" height="4.83870968"></rect>
+                    <polygon id="L23" transform="translate(2.508961, 2.500000) rotate(-60.000000) translate(-2.508961, -2.500000) " points="1.94444444 6.272316e-12 3.04070611 0.014123421 3.0734767 5 1.97721503 4.98587658"></polygon>
+                    <polygon id="L33" transform="translate(2.508961, 2.500000) rotate(-120.000000) translate(-2.508961, -2.500000) " points="1.97721503 0.014123421 3.0734767 -1.61332475e-11 3.04070611 4.98587658 1.94444444 5"></polygon>
+                </g>
+                <g id="G4" transform="translate(38.000000, 24.000000)" fill="#FFFFFF">
+                    <rect id="L14" transform="translate(2.508961, 2.419355) rotate(-360.000000) translate(-2.508961, -2.419355) " x="1.94444444" y="0" width="1.12903226" height="4.83870968"></rect>
+                    <polygon id="L24" transform="translate(2.508961, 2.500000) rotate(-60.000000) translate(-2.508961, -2.500000) " points="1.94444444 -1.13455911e-11 3.04070611 0.014123421 3.0734767 5 1.97721503 4.98587658"></polygon>
+                    <polygon id="L34" transform="translate(2.508961, 2.500000) rotate(-120.000000) translate(-2.508961, -2.500000) " points="1.97721503 0.014123421 3.0734767 -1.10821907e-11 3.04070611 4.98587658 1.94444444 5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="507px" height="373px" viewBox="0 0 507 373" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>yak-microsite-desktop-video-v1.0</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="yak-microsite-desktop-video-v1.0" transform="translate(2.000000, 1.000000)">
+            <g id="desktop">
+                <path d="M0.2,278.9 L0.2,298.7 C0.2,305 5.3,310.1 11.6,310.1 L491.2,310.1 C497.5,310.1 502.6,305 502.6,298.7 L502.6,278.9" id="Shape" fill="#FFD333"></path>
+                <path d="M303.2,315.5 L302.8,310.2 L200.1,310.2 L199.7,315.5 C196.9,337.2 178.5,353.4 156.6,353.4 L139,353.4 L139,369.8 L363.8,369.8 L363.8,353.4 L346.2,353.4 C324.4,353.4 306,337.2 303.2,315.5" id="Shape" fill="#FFD333"></path>
+                <path d="M0.2,278.9 L0.2,298.7 C0.2,305 5.3,310.1 11.6,310.1 L491.2,310.1 C497.5,310.1 502.6,305 502.6,298.7 L502.6,278.9" id="Shape" stroke="#FF8B12" stroke-width="3"></path>
+                <path d="M502.7,278.9 L502.7,11.9 C502.7,5.6 497.6,0.5 491.3,0.5 L11.6,0.5 C5.3,0.5 0.2,5.6 0.2,11.9 L0.2,278.9" id="Shape" fill="#FFD333"></path>
+                <path d="M502.7,278.9 L502.7,11.9 C502.7,5.6 497.6,0.5 491.3,0.5 L11.6,0.5 C5.3,0.5 0.2,5.6 0.2,11.9 L0.2,278.9" id="Shape" stroke="#FF8B12" stroke-width="3"></path>
+                <rect id="Rectangle-path" fill="#6D00F6" x="22.3" y="20.5" width="458.4" height="269.6"></rect>
+                <rect id="Rectangle-path" stroke="#FF8B12" stroke-width="3" x="22.3" y="20.5" width="458.4" height="269.6"></rect>
+                <path d="M303.2,315.5 L302.8,310.2 L200.1,310.2 L199.7,315.5 C196.9,337.2 178.5,353.4 156.6,353.4 L139,353.4 L139,369.8 L363.8,369.8 L363.8,353.4 L346.2,353.4 C324.4,353.4 306,337.2 303.2,315.5 L303.2,315.5 Z" id="Shape" stroke="#FF8B12" stroke-width="3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

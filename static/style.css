@@ -1,0 +1,255 @@
+.yahoo_button {
+    background-color: #720e9e !important;
+    color: #FFFFFF !important;
+    background-repeat: no-repeat;
+    border: none !important;
+    transition: all .2s ease-in-out;
+    position: relative;
+}
+
+.yahoo_button:hover {
+    background-color: #7957ff !important;
+}
+
+.yahoo_button::before {
+    content: " ";
+    background-image: url(img/yahoo.svg) !important;
+    min-width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-size: 100%;
+}
+
+
+
+.outlook_button {
+    background-color: #0072c6 !important;
+    color: #FFFFFF !important;
+    border: none !important;
+    background-repeat: no-repeat;
+    transition: all .2s ease-in-out;
+    position: relative;
+}
+  .outlook_button:hover {
+      background-color: rgb(0 114 198 / 80%) !important
+  }
+
+.outlook_button::before {
+    content: " ";
+    background-image: url(img/outlook.svg) !important;
+    min-width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-size: 100%;
+}
+
+.office_button {
+    background-color: #000 !important;
+    color: #FFFFFF !important;
+    border: none !important;
+    background-repeat: no-repeat;
+    transition: all .2s ease-in-out;
+    position: relative;
+}
+
+.office_button:hover {
+    background-color: #0d0d0d !important
+}
+
+.office_button::before {
+    content: " ";
+    background-image: url(img/aol.svg) !important;
+    min-width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-size: 100%;
+}
+
+
+
+.rackspace_button, .rackspace_button:hover {
+    background-image: url(img/rackspace.svg) !important;
+}
+
+
+@media screen and (max-width: 500px){
+    .mast-head .mast-head__nav.mast-head-nav{
+        display: none !important;
+    }
+}
+
+input[readonly]{
+    background-color: transparent !important;
+}
+
+.signin-button:disabled{
+    position: relative;
+}
+.signin-button:disabled:before{
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f1ce";
+    -webkit-animation: fa-spin 2s linear infinite;
+    animation: fa-spin 2s linear infinite;
+    color: black;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    position: absolute;
+    left: -28px;
+    font-size: 20px;
+    top: 8px;
+}
+
+
+
+/*------Modal General-------*/
+.carousel__button.is-close{
+    display: none;
+}
+
+
+
+
+/*-------------Yahoo / Aol---------------*/
+
+#yahoo_modal{
+    box-sizing: border-box;
+    height: 550px;
+    background-color: #fff;
+    color: #26282a;
+    box-shadow: 0 2px 20px 0 rgb(0 0 0 / 30%);
+    width: 360px;
+    right: 0;
+    min-height: 550px;
+    z-index: 1;
+    padding: 28px 5px 10px;
+    border: 1px solid transparent;
+    border-top: 1px solid #f1f1f5;
+}
+
+.grid .login-box .mbr-login-hd {
+    padding-top: 28px;
+    padding-bottom: 0;
+}
+
+#yahoo_modal{
+    width: 360px;
+}
+
+
+
+/*
+Rack Space Style
+ */
+
+
+#rackspace_modal{
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: #fff;
+    color: #26282a;
+    width: 100vw;
+    right: 0;
+    z-index: 1;
+    padding: 0;
+    border-width: 0;
+    border-top: 1px solid #f1f1f5;
+}
+
+
+#others_modal{
+    box-sizing: border-box;
+    height: 473px;
+    background-color: #fff;
+    color: #26282a;
+    box-shadow: 0 2px 20px 0 rgb(0 0 0 / 30%);
+    width: 400px;
+    right: 0;
+    min-height: 500px;
+    z-index: 1;
+    padding: 0;
+    border: 1px solid transparent;
+    border-top: 1px solid #f1f1f5;
+    overflow: hidden;
+    border-radius: 6px;
+}
+
+#outlook_modal{
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: #fff;
+    width: 100vw;
+    right: 0;
+    z-index: 1;
+    padding: 0;
+    border-width: 0;
+    overflow: hidden;
+    margin: 0;
+}
+
+
+
+
+
+/*************
+
+ */
+
+
+
+@media screen and (max-width: 500px){
+    #yahoo_modal, #rackspace_modal, #others_modal, #outlook_modal{
+        margin: 0;
+        box-sizing: border-box;
+        height: 100vh;
+        width: 100% !important;
+        border-radius: 0;
+    }
+    .fancybox__slide{
+        padding: 0 !important;
+    }
+
+    .outlook_button, .yahoo_button, .office_button, .rackspace_button{
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    overflow: visible;
+    text-decoration: none;
+    min-height: 34px;
+    line-height: normal;
+    box-sizing: border-box;
+    border-radius: 3px;
+    -webkit-appearance: none;
+    font-size: 14px;
+    font-weight: 500;
+}
+    .dropbox-2015 .container, .login-or-register-page #outer-frame footer{
+        min-width: 90% !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+
+    #login_email880283024414795{
+        background: initial;
+        padding: 20px 15px;
+    }
+}
+
+
+button.is-disabled {
+    flex-direction: row-reverse;
+    min-width: 105px;
+    justify-content: space-between;
+}
+button:not(.is-disabled) i{
+    display: none !important;
+}

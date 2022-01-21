@@ -1,0 +1,13 @@
+<svg viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="el_kbaR429fG"><style>@-webkit-keyframes kf_el_EwgnmVYbHr_an_WndOv-DEi{0%{-webkit-transform: translate(8px, 8px) rotate(360deg) translate(-8px, -8px);transform: translate(8px, 8px) rotate(360deg) translate(-8px, -8px);}100%{-webkit-transform: translate(8px, 8px) rotate(720deg) translate(-8px, -8px);transform: translate(8px, 8px) rotate(720deg) translate(-8px, -8px);}}@keyframes kf_el_EwgnmVYbHr_an_WndOv-DEi{0%{-webkit-transform: translate(8px, 8px) rotate(360deg) translate(-8px, -8px);transform: translate(8px, 8px) rotate(360deg) translate(-8px, -8px);}100%{-webkit-transform: translate(8px, 8px) rotate(720deg) translate(-8px, -8px);transform: translate(8px, 8px) rotate(720deg) translate(-8px, -8px);}}#el_kbaR429fG *{-webkit-animation-duration: 2.4s;animation-duration: 2.4s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_QzXL3hCQA3{stroke: none;stroke-width: 1;fill: none;}#el_NtyOBSoTmO{-webkit-transform: translate(-128px, -230px);transform: translate(-128px, -230px);}#el_H0_g7wS50j{-webkit-transform: translate(24px, 208px);transform: translate(24px, 208px);}#el_g8SNZK40-i{-webkit-transform: translate(105px, 23px);transform: translate(105px, 23px);}#el_EwgnmVYbHr{stroke: #188FFF;stroke-width: 1.5;}#el_EwgnmVYbHr_an_WndOv-DEi{-webkit-transform: translate(8px, 8px) rotate(360deg) translate(-8px, -8px);transform: translate(8px, 8px) rotate(360deg) translate(-8px, -8px);-webkit-animation-fill-mode: backwards;animation-fill-mode: backwards;-webkit-animation-name: kf_el_EwgnmVYbHr_an_WndOv-DEi;animation-name: kf_el_EwgnmVYbHr_an_WndOv-DEi;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}</style>
+    <title>Loader</title>
+    <g id="el_QzXL3hCQA3" fill-rule="evenodd">
+        <g id="el_NtyOBSoTmO">
+            <g id="el_H0_g7wS50j">
+                <g id="el_g8SNZK40-i">
+                    <circle id="el_RknAu5Uyiw" cx="8" cy="8" r="8"/>
+                    <g id="el_EwgnmVYbHr_an_WndOv-DEi" data-animator-group="true" data-animator-type="1"><path d="M8,16 C12.418278,16 16,12.418278 16,8 C16,3.581722 12.418278,0 8,0 C3.581722,0 0,3.581722 0,8 C0,12.418278 3.581722,16 8,16 Z" id="el_EwgnmVYbHr" stroke-linecap="round" stroke-dasharray="40"/></g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

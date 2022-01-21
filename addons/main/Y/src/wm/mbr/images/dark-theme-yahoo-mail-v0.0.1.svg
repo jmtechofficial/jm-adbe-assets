@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="144px" height="144px" preserveAspectRatio="xMidYMid meet" viewBox="0 0 144 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="6.6" y="13.2173913" width="118.8" height="76" rx="4.95"></rect>
+        <filter x="-7.2%" y="-8.6%" width="114.3%" height="122.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.878431373   0 0 0 0 0.894117647   0 0 0 0 0.91372549  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Yahoo-mail" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(6.000000, 29.000000)">
+            <g id="envelope-back" transform="translate(0.000000, 0.521739)">
+                <rect fill="#5D5EFF" x="0" y="0" width="132" height="51.2173913" rx="9.9"></rect>
+                <g id="envelope-inside">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+            <g id="envelope-front" transform="translate(0.000000, 31.260870)">
+                <path d="M131.423145,29.9361746 L132,66.2978689 L75.9,66.2978689 C70.432381,66.2978689 66,61.8654879 66,56.3978689 L66,4.9506991 C66,2.21688959 68.2161905,0.000699104674 70.95,0.000699104674 C71.7249551,0.000699104674 72.4890847,0.182651951 73.1808753,0.531910183 L131.423145,29.9361746 Z" id="Triangle-2-Copy" fill="#5D5EFF" transform="translate(99.000000, 33.148934) scale(-1, 1) translate(-99.000000, -33.148934) "></path>
+                <path d="M65.4231445,29.9361746 L66,66.2978689 L9.9,66.2978689 C4.43238098,66.2978689 -6.43583714e-15,61.8654879 -7.10542736e-15,56.3978689 L-1.77635684e-15,4.9506991 C-2.11115195e-15,2.21688959 2.21619049,0.000699104674 4.95,0.000699104674 C5.72495514,0.000699104674 6.48908473,0.182651951 7.18087527,0.531910183 L65.4231445,29.9361746 Z" id="Triangle-2-Copy-2" fill="#5D5EFF"></path>
+                <path d="M127.05,65.0869565 L4.95,65.0869565 L60.7734522,31.8216451 C63.9738456,29.9145241 68.0261544,29.9145241 71.2265478,31.8216451 L127.05,65.0869565 Z" id="Triangle" fill="#5D5EFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

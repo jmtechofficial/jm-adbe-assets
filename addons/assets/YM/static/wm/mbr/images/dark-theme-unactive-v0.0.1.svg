@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="52px" viewBox="0 0 48 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <filter x="-32.4%" y="-27.3%" width="164.9%" height="154.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="unactive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Master_icon_grid-working-file--copy-91-Copy-Copy" filter="url(#filter-1)" transform="translate(6.000000, 2.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M18.07,0 C18.07,0 0.07,5.1 0.07,6 L0.07,24.2 C0.07,33.4 13.37,41.5 17.07,43.7 C17.6769295,44.099123 18.4630705,44.099123 19.07,43.7 C22.87,41.6 36.07,33.4 36.07,24.2 L36.07,6 C36.07,5.1 18.07,0 18.07,0 Z M18.07,13.76 C14.47,13.76 14.41,17.42 14.41,17.42 L21.73,17.42 C21.73,17.42 21.67,13.76 18.07,13.76 Z" id="Shape"></path>
+        </g>
+        <g id="Master_icon_grid-working-file--copy-92" transform="translate(10.000000, 7.000000)" fill="#5D5EFF" fill-rule="nonzero">
+            <path d="M14.257027,0 C14.257027,0 0.148918919,3.94090909 0.148918919,4.63636364 L0.148918919,18.7 C0.148918919,25.8090909 10.5732432,32.0681818 13.4732432,33.7681818 C13.9489447,34.076595 14.5651093,34.076595 15.0408108,33.7681818 C18.0191892,32.1454545 28.3651351,25.8090909 28.3651351,18.7 L28.3651351,4.63636364 C28.3651351,3.94090909 14.257027,0 14.257027,0 Z M14.1551351,20.6704545 C13.2893915,20.6704545 12.5875676,19.978531 12.5875676,19.125 L12.5875676,9.85227273 C12.5875676,8.99874175 13.2893915,8.30681818 14.1551351,8.30681818 C15.0208788,8.30681818 15.7227027,8.99874175 15.7227027,9.85227273 L15.7227027,19.125 C15.7227027,19.978531 15.0208788,20.6704545 14.1551351,20.6704545 Z M14.1551351,26.8522727 C13.2893915,26.8522727 12.5875676,26.1603492 12.5875676,25.3068182 C12.5875676,24.4532872 13.2893915,23.7613636 14.1551351,23.7613636 C15.0208788,23.7613636 15.7227027,24.4532872 15.7227027,25.3068182 C15.7227027,26.1603492 15.0208788,26.8522727 14.1551351,26.8522727 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

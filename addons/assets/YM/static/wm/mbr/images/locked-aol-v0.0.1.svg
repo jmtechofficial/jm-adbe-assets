@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="52px" viewBox="0 0 48 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>locked</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-32.4%" y="-27.3%" width="164.9%" height="154.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="100%" x2="0%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#1476D9" offset="0"></stop>
+            <stop stop-color="#5CADFF" offset="1"></stop>
+        </linearGradient>
+    </defs>
+    <g id="locked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Master_icon_grid-working-file--copy-91-Copy-Copy" filter="url(#filter-1)" transform="translate(6.000000, 2.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M18.07,0 C18.07,0 0.07,5.1 0.07,6 L0.07,24.2 C0.07,33.4 13.37,41.5 17.07,43.7 C17.6769295,44.099123 18.4630705,44.099123 19.07,43.7 C22.87,41.6 36.07,33.4 36.07,24.2 L36.07,6 C36.07,5.1 18.07,0 18.07,0 Z M18.07,13.76 C14.47,13.76 14.41,17.42 14.41,17.42 L21.73,17.42 C21.73,17.42 21.67,13.76 18.07,13.76 Z" id="Shape"></path>
+        </g>
+        <g id="Master_icon_grid-working-file--copy-91-Copy" transform="translate(10.000000, 7.000000)" fill="url(#linearGradient-2)" fill-rule="nonzero">
+            <path d="M14.1081081,0 C14.1081081,0 0,3.94090909 0,4.63636364 L0,18.7 C0,25.8090909 10.4243243,32.0681818 13.3243243,33.7681818 C13.8000258,34.076595 14.4161904,34.076595 14.8918919,33.7681818 C17.8702703,32.1454545 28.2162162,25.8090909 28.2162162,18.7 L28.2162162,4.63636364 C28.2162162,3.94090909 14.1081081,0 14.1081081,0 Z M14.1081081,17 C14.5063502,17 14.8291892,17.3182848 14.8291892,17.7109091 L14.8291892,20.5390909 C14.8291892,20.9317152 14.5063502,21.25 14.1081081,21.25 C13.709866,21.25 13.387027,20.9317152 13.387027,20.5390909 L13.387027,17.7109091 C13.387027,17.3182848 13.709866,17 14.1081081,17 Z M14.1081081,10.6327273 C11.2864865,10.6327273 11.2394595,13.4609091 11.2394595,13.4609091 L16.9767568,13.4609091 C16.9767568,13.4609091 16.9297297,10.6327273 14.1081081,10.6327273 Z M20.5664865,24.7813636 L7.65756757,24.7813636 C7.26236638,24.7813867 6.94078215,24.4677851 6.93648649,24.0781818 L6.93648649,14.1718182 C6.93648649,13.7791939 7.25932548,13.4609091 7.65756757,13.4609091 L9.80513514,13.4609091 C9.80513514,11.1136989 11.7351509,9.21090909 14.1159459,9.21090909 C16.496741,9.21090909 18.4267568,11.1136989 18.4267568,13.4609091 L20.5743243,13.4609091 C20.9725664,13.4609091 21.2954054,13.7791939 21.2954054,14.1718182 L21.2954054,24.0781818 C21.2911097,24.4677851 20.9695255,24.7813867 20.5743243,24.7813636 L20.5664865,24.7813636 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

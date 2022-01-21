@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>safari</title>
+    <desc>Created with Sketch.</desc>
+    <g id="safari" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <path d="M11,0 C17.0751322,0 22,4.92486775 22,11 C22,17.0751322 17.0751322,22 11,22 C4.92486775,22 0,17.0751322 0,11 C0,4.92486775 4.92486775,0 11,0 Z M11,0.916666667 C5.43112877,0.916666667 0.916666667,5.43112877 0.916666667,11 C0.916666667,16.5688712 5.43112877,21.0833333 11,21.0833333 C16.5688712,21.0833333 21.0833333,16.5688712 21.0833333,11 C21.0833333,5.43112877 16.5688712,0.916666667 11,0.916666667 Z" id="Combined-Shape" fill="#C7CDD2"></path>
+            <circle id="Oval" fill="#C7CDD2" cx="11" cy="11" r="9.16666667"></circle>
+            <g id="arrows" transform="translate(11.000000, 11.000000) rotate(45.000000) translate(-11.000000, -11.000000) translate(9.166667, 2.750000)" fill="#FFFFFF">
+                <polygon id="triangle" points="1.83333333 -2.07611706e-14 3.66666667 7.15 0 7.15"></polygon>
+                <polygon id="triangle" transform="translate(1.833333, 12.741667) scale(-1, -1) translate(-1.833333, -12.741667) " points="1.83333333 9.16666667 3.66666667 16.3166667 0 16.3166667"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

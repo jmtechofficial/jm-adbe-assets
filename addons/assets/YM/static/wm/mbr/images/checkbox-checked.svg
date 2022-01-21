@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>Tick_Checkbox_Yes</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Account-Access" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="User-Name_Desktop_02-Copy-3" transform="translate(-24.000000, -336.000000)">
+            <g id="Tick_Checkbox_Yes" transform="translate(24.000000, 336.000000)">
+                <rect id="Rectangle" stroke="#B9BDC5" x="0.5" y="0.5" width="15" height="15" rx="2"></rect>
+                <path d="M3.16749976,8.35860496 C2.94416675,8.13860527 2.94416675,7.77971689 3.16749976,7.55749498 C3.39027723,7.33693974 3.75194338,7.33693974 3.9752764,7.55749498 L6.2919398,9.85471396 L12.0241539,4.1658331 C12.2480425,3.9447223 12.6091531,3.9447223 12.8319306,4.1658331 C13.0558191,4.38749945 13.0558191,4.74583228 12.8319306,4.96694308 L6.69582812,11.0569345 C6.47138399,11.2802675 6.1286067,11.2741564 5.88749593,11.0569345 L3.16749976,8.35860496 Z" id="Tick" fill="#232A31"></path>
+            </g>
+        </g>
+    </g>
+</svg>

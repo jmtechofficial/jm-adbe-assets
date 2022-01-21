@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="100%" y1="25.3025521%" x2="0%" y2="78.125%" id="linearGradient-1">
+            <stop stop-color="#1476D9" offset="0%"></stop>
+            <stop stop-color="#5CADFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Account-Access" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="User-Name-Copy-9" transform="translate(-184.000000, -174.000000)" fill="url(#linearGradient-1)">
+            <path d="M184.727273,186 C184.325818,186 184,185.66475 184,185.25 L184,174.75 C184,174.33525 184.325818,174 184.727273,174 L199.272727,174 C199.674182,174 200,174.33525 200,174.75 L200,185.25 C200,185.66475 199.674182,186 199.272727,186 L184.727273,186 Z M198.545455,184.5 L198.545455,178.7385 L192,181.50825 L185.454545,178.7385 L185.454545,184.5 L198.545455,184.5 Z M185.454545,175.5 L185.454545,177.08625 L192,179.85675 L198.545455,177.08625 L198.545455,175.5 L185.454545,175.5 Z" id="Mail_AOL"></path>
+        </g>
+    </g>
+</svg>

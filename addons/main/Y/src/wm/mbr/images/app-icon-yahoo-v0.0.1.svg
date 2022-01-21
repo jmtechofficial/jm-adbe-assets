@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>APP-icon-yahoo@1x</title>
+    <defs>
+        <linearGradient x1="13.466276%" y1="13.835907%" x2="87.9017735%" y2="87.9711151%" id="linearGradient-1">
+            <stop stop-color="#7759FF" offset="0%"></stop>
+            <stop stop-color="#6001D2" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="0.222396087 0.121044444 12.2791613 0.121044444 12.2791613 12.9017489 0.222396087 12.9017489"></polygon>
+    </defs>
+    <g id="yahoo-app-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="yahoo-app" transform="translate(-33.000000, -396.000000)">
+            <g id="APP-icon-yahoo" transform="translate(33.000000, 396.000000)">
+                <rect id="Background" fill="url(#linearGradient-1)" x="0" y="0" width="40" height="40" rx="8"></rect>
+                <g id="y!-copy" transform="translate(5.000000, 7.000000)">
+                    <polygon id="Fill-1" fill="#FFFFFF" fill-rule="nonzero" points="12.6208671 6.5 9.15985734 14.8456166 5.72854668 6.5 0 6.5 6.38529347 20.8345258 4.08775129 26 9.69688946 26 18.2 6.5"></polygon>
+                    <g id="!" transform="translate(15.600000, 0.000000)">
+                        <path d="M3.75371892,14.1405911 C1.69420805,14.1405911 0.148564565,15.6890356 0.148564565,17.4911244 C0.148564565,19.2640356 1.63358848,20.7284133 3.63247979,20.7284133 C5.69292326,20.7284133 7.23763413,19.20828 7.23763413,17.3781689 C7.23763413,15.5763689 5.75354282,14.1405911 3.75371892,14.1405911" id="Fill-2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <g id="Group-6" transform="translate(1.865218, 0.000000)">
+                            <g id="Fill-4-Clipped">
+                                <mask id="mask-3" fill="white">
+                                    <use xlink:href="#path-2"></use>
+                                </mask>
+                                <g id="path-1"></g>
+                                <polygon id="Fill-4" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-3)" points="5.91752652 0.121015556 0.222396087 12.9017489 6.58434174 12.9017489 12.2791613 0.121015556"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

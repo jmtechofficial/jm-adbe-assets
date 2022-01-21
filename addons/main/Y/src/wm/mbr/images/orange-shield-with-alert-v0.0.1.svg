@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="64px" viewBox="0 0 54 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-17.4%" y="-14.3%" width="134.8%" height="128.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="25.0003848%" y1="82.904234%" x2="84.4367933%" y2="12.1901584%" id="linearGradient-2">
+            <stop stop-color="#FFA233" offset="0%"></stop>
+            <stop stop-color="#FF872E" offset="52.9056105%"></stop>
+            <stop stop-color="#FF6B27" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Verfy-email-with-link-recovery-flow-attempts-exceeded" transform="translate(-133.000000, -150.000000)" fill-rule="nonzero">
+            <g id="Group" transform="translate(137.000000, 154.000000)">
+                <g id="Master_icon_grid-working-file--copy-91-Copy-Copy" filter="url(#filter-1)" fill="#FFFFFF">
+                    <path d="M22.9981818,0 C22.9981818,0 0.0890909091,6.49090909 0.0890909091,7.63636364 L0.0890909091,30.8 C0.0890909091,42.5090909 17.0163636,52.8181818 21.7254545,55.6181818 C22.4979102,56.1261565 23.4984534,56.1261565 24.2709091,55.6181818 C29.1072727,52.9454545 45.9072727,42.5090909 45.9072727,30.8 L45.9072727,7.63636364 C45.9072727,6.49090909 22.9981818,0 22.9981818,0 Z M22.9981818,17.5127273 C18.4163636,17.5127273 18.34,22.1709091 18.34,22.1709091 L27.6563636,22.1709091 C27.6563636,22.1709091 27.58,17.5127273 22.9981818,17.5127273 L22.9981818,17.5127273 Z" id="Shape"></path>
+                </g>
+                <g id="Master_icon_grid-working-file--copy-92" transform="translate(5.090909, 6.363636)" fill="url(#linearGradient-2)">
+                    <path d="M18.1453071,0 C18.1453071,0 0.18953317,5.01570248 0.18953317,5.90082645 L0.18953317,23.8 C0.18953317,32.8479339 13.456855,40.8140496 17.1477641,42.977686 C17.7532024,43.3702119 18.5374119,43.3702119 19.1428501,42.977686 C22.9335135,40.9123967 36.1010811,32.8479339 36.1010811,23.8 L36.1010811,5.90082645 C36.1010811,5.01570248 18.1453071,0 18.1453071,0 Z M18.0156265,26.3078512 C16.913771,26.3078512 16.0205405,25.4272212 16.0205405,24.3409091 L16.0205405,12.5392562 C16.0205405,11.452944 16.913771,10.572314 18.0156265,10.572314 C19.1174821,10.572314 20.0107125,11.452944 20.0107125,12.5392562 L20.0107125,24.3409091 C20.0107125,25.4272212 19.1174821,26.3078512 18.0156265,26.3078512 L18.0156265,26.3078512 Z M18.0156265,34.1756198 C16.913771,34.1756198 16.0205405,33.2949898 16.0205405,32.2086777 C16.0205405,31.1223655 16.913771,30.2417355 18.0156265,30.2417355 C19.1174821,30.2417355 20.0107125,31.1223655 20.0107125,32.2086777 C20.0107125,33.2949898 19.1174821,34.1756198 18.0156265,34.1756198 L18.0156265,34.1756198 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

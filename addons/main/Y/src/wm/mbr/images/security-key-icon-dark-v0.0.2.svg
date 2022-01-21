@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>SecurityKey_02</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Security-Key_MouseOver" transform="translate(-10.000000, -10.000000)" fill-rule="nonzero">
+            <g id="SecurityKey_02" transform="translate(10.000000, 10.000000)">
+                <rect id="Rectangle" fill="#7A7CD0" x="0" y="0" width="60" height="60" rx="4"></rect>
+                <g id="Group" transform="translate(10.000000, 12.000000)">
+                    <rect id="Rectangle" fill="#FFFFFF" x="14" y="0" width="26" height="36" rx="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="6" width="15" height="24"></rect>
+                    <rect id="Rectangle" fill="#7A7CD0" x="3" y="9" width="11" height="18"></rect>
+                    <rect id="Rectangle" fill="#7A7CD0" x="17" y="3" width="20" height="30" rx="2"></rect>
+                </g>
+                <rect id="Rectangle" fill="#FFFFFF" x="16" y="23" width="4" height="4"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="16" y="32" width="4" height="4"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="41" y="19" width="3" height="22"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

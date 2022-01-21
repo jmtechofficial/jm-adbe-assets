@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Yahoo</title>
+    <defs>
+        <polygon id="path-1" points="0.156817754 0.0814722222 8.65838298 0.0814722222 8.65838298 8.68386944 0.156817754 8.68386944"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Brand-assets" transform="translate(-18.000000, -21.000000)">
+            <g id="Yahoo" transform="translate(18.000000, 21.000000)">
+                <circle id="Oval" fill="#6001D2" cx="20" cy="20" r="20"></circle>
+                <g id="y!" transform="translate(11.000000, 11.000000)">
+                    <polygon id="Fill-1" fill="#FFFFFF" fill-rule="nonzero" points="9.01490504 4 6.54275525 9.99172476 4.09181906 4 0 4 4.56092391 14.2914544 2.91982235 18 6.92634962 18 13 4"></polygon>
+                    <g id="!" transform="translate(11.000000, 0.000000)">
+                        <path d="M2.64685308,9.51770558 C1.19463388,9.51770558 0.104757065,10.5599278 0.104757065,11.7728722 C0.104757065,12.9661778 1.15188931,13.9518166 2.56136395,13.9518166 C4.01424076,13.9518166 5.10345996,12.92865 5.10345996,11.6968444 C5.10345996,10.4840944 4.05698532,9.51770558 2.64685308,9.51770558" id="Fill-2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <g id="Fill-4-Clipped" transform="translate(1.315218, 0.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="path-1"></g>
+                            <polygon id="Fill-4" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" points="4.17261486 0.0814527778 0.156817754 8.68386944 4.64280507 8.68386944 8.65838298 0.0814527778"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
